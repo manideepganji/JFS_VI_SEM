@@ -9,7 +9,7 @@ public class StudentDAO {
     private static final String URL =
             "jdbc:mysql://localhost:3306/skillnext2_db";
     private static final String USER = "root";
-    private static final String PASSWORD = "iare";
+    private static final String PASSWORD = "manideep";
 
     // ADD STUDENT
     public void addStudent(Student st) throws Exception {
